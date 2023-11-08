@@ -385,6 +385,7 @@
 			"date": "07-Nov-2023",
 			"featured": true,
 			"description": [
+				"New <b>Original Characters</b>",
 				"New Character: <b>Yusk ( 5★ )</b>",
 				"New Character: <b>Lukwos ( 5★ )</b>",
 				"New Character: <b>Vilkas ( 4★ )</b>",
@@ -395,6 +396,7 @@
 			"date": "08-Nov-2023",
 			"featured": true,
 			"description": [
+				"New <b>Original Character</b>",
 				"New Character: <b>Koutsuki Naomi ( 5★ )</b>"
 			]
 		},
@@ -442,6 +444,25 @@
 				"New Character: <b>Silver Wolf ( 5★ )</b>",
 				"New Character: <b>Luocha ( 5★ )</b>",
 				"New Character: <b>Yukong ( 4★ )</b>"
+			]
+		},
+		{
+			"date": "08-Nov-2023",
+			"featured": true,
+			"description": [
+				"New <b>Honkai Star Rail</b> Characters",
+				"New Character: <b>Blade ( 5★ )</b>",
+				"New Character: <b>Kafka ( 5★ )</b>",
+				"New Character: <b>Luka ( 4★ )</b>"
+			]
+		},
+		{
+			"date": "08-Nov-2023",
+			"featured": true,
+			"description": [
+				"New <b>Genshin Impact</b> Characters",
+				"New Character: <b>Aether ( 5★ )</b>",
+				"New Character: <b>Lumine ( 5★ )</b>"
 			]
 		}
 	]

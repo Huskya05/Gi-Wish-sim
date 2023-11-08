@@ -381,23 +381,23 @@
 	},
 	"aether": {
 		"name": "Aether",
-		"title": "--"
+		"title": "Traveler's Sibling"
 	},
 	"lumine": {
 		"name": "Lumine",
-		"title": "--"
+		"title": "Traveler's Sibling"
 	},
 	"navia": {
 		"name": "Navia",
-		"title": "--"
+		"title": "Head of the Spina di Rosula"
 	},
 	"arlecchino": {
 		"name": "Arlecchino",
-		"title": "--"
+		"title": "The Father"
 	},
 	"dahlia": {
 		"name": "Dahlia",
-		"title": "--"
+		"title": "Church of Favonius"
 	},
 	"yusk": {
 		"name": "Yusk",
@@ -526,5 +526,17 @@
 	"yukong": {
 		"name": "Yukong",
 		"title": "Helm Master"
+	},
+	"blade": {
+		"name": "Blade",
+		"title": "Stellaron Hunter"
+	},
+	"kafka": {
+		"name": "Kafka",
+		"title": "Stellaron Hunter"
+	},
+	"luka": {
+		"name": "Luka",
+		"title": "Boxing Champion"
 	}
 }

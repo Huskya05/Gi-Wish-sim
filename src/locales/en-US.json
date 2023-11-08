@@ -68,15 +68,25 @@
 		"twirling-lotus": "Twirling Lotus",
 		"viridescent-vigil": "Viridescent Vigil",
 
+		"we-will-be-reunited": "We Will be Reunited",
+		"mondstadt-invocation": "Mondstadt Invocation",
+		"liyue-invocation": "Liyue Invocation",
+		"inazuma-invocation": "Inazuma Invocation",
+		"sumeru-invocation": "Sumeru Invocation",
+		"fontaine-invocation": "Fontaine Invocation",
+
 		"artic-loneliness": "Artic Loneliness",
 		"blazing-rivalry": "Blazing Rivalry",
 
 		"the-beautiful-crimson-moon": "The Beautiful Crimson Moon",
-
+		
+		"stellaron-receptacle": "Stellaron Receptacle",
 		"butterfly-on-swordtip": "Butterfly on Swordtip",
 		"swirl-of-heavenly-spear": "Swirl of Heavenly Spear",
 		"contract-zero": "Contract Zero",
-		"laic-pursuit": "Laic Pursuit"
+		"laic-pursuit": "Laic Pursuit",
+		"a-lost-soul": "A Lost Soul",
+		"nessun-norma": "Nessun Norma"
 	},
 	"editor": {
 		"bannerConfig": "{banner} Configuration",

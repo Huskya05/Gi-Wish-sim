@@ -2,79 +2,99 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"name": "luka",
+			"vision": "pyro",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 70, "l": 100, "h": 220 }
+		},
+		{
+			"name": "kafka",
+			"vision": "electro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 80, "l": 50, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "blade",
+			"vision": "anemo",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 135, "l": 50, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
 			"name": "yukong",
 			"vision": "geo",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 60, "l": 100, "h": 220 }
 		},
 		{
 			"name": "luocha",
 			"vision": "geo",
 			"rarity": 5,
-			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"wishBoxPosition": { "t": 75, "l": 40, "h": 240 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
 			"name": "silver-wolf",
 			"vision": "hydro",
 			"rarity": 5,
-			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"wishBoxPosition": { "t": 60, "l": -30, "h": 240 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
 			"name": "jing-yuan",
 			"vision": "electro",
 			"rarity": 5,
-			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"wishBoxPosition": { "t": 60, "l": 50, "h": 290 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
 			"name": "tingyun",
 			"vision": "electro",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 80, "l": 30, "h": 220 }
 		},
 		{
 			"name": "qingque",
 			"vision": "hydro",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 60, "l": 80, "h": 220 }
 		},
 		{
 			"name": "sushang",
 			"vision": "dendro",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 50, "l": 30, "h": 220 }
 		},
 		{
 			"name": "herta",
 			"vision": "cryo",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 80, "l": 60, "h": 220 }
 		},
 		{
 			"name": "arlan",
 			"vision": "electro",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 50, "l": -110, "h": 220 }
 		},
 		{
 			"name": "serval",
 			"vision": "electro",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 50, "l": 20, "h": 250 }
 		},
 		{
 			"name": "sampo",
 			"vision": "anemo",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 70, "l": 50, "h": 220 }
 		},
 		{
 			"name": "asta",
 			"vision": "pyro",
 			"rarity": 4,
-			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+			"wishBoxPosition": { "t": 60, "l": 80, "h": 220 }
 		},
 		{
 			"name": "pela",
@@ -105,13 +125,13 @@
 			"name": "dan-heng",
 			"vision": "anemo",
 			"rarity": 4,
-			"wishBoxPosition": { "t":40, "l": 40 }
+			"wishBoxPosition": { "t":50, "l": -20, "h": 250 }
 		},
 		{
 			"name": "march-7th",
 			"vision": "cryo",
 			"rarity": 4,
-			"wishBoxPosition": { "t":40, "l": 40 }
+			"wishBoxPosition": { "t":50, "l": 60 }
 		},
 		{
 			"name": "clara",
@@ -166,14 +186,14 @@
 			"name": "stelle",
 			"vision": "pyro",
 			"rarity": 5,
-			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"wishBoxPosition": { "t": 90, "l": 120, "h": 290 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
 			"name": "caelus",
-			"vision": "dendro",
+			"vision": "geo",
 			"rarity": 5,
-			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"wishBoxPosition": { "t": 90, "l": 120, "h": 290 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
@@ -746,14 +766,17 @@
 			"name": "lumine",
 			"rarity": 5,
 			"vision": "anemo",
-			"release": "1.0-0"
+			"release": "1.0-0",
+			"wishBoxPosition": { "t": 75, "h": 155 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
 			"name": "aether",
 			"rarity": 5,
 			"vision": "anemo",
 			"release": "1.0-0",
-			"wishBoxPosition": { "t": 55, "h": 170, "l": 120 }
+			"wishBoxPosition": { "t": 75, "h": 155 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		}
 	]
 }
