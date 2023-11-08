@@ -2,6 +2,13 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"name": "koutsuki-naomi",
+			"vision": "pyro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 80, "l": 80, "h": 200 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
 			"name": "okami",
 			"vision": "electro",
 			"rarity": 4,

@@ -37,6 +37,43 @@
 					}
 				}
 			}
+		},
+		{
+			"phase": 2,
+			"banners": {
+				"standardVersion": 4,
+				"events": {
+					"featured": [
+						{
+							"bannerName": "the-beautiful-crimson-moon-1",
+							"character": "koutsuki-naomi",
+							"textOffset": { "l": 50.75, "b": 9 }
+						},
+						{
+							"bannerName": "everbloom-violet-3",
+							"character": "yae-miko",
+							"textOffset": { "l": 48.6, "b": 8 }
+						}
+					],
+					"rateup": ["kirara", "yun-jin", "chongyun"]
+				},
+				"weapons": {
+					"bannerName": "epitome-invocation-47",
+					"fatepointsystem": true,
+					"featured": [
+						{ "name": "thundering-pulse" },
+						{
+							"name": "kagura_s-verity",
+							"buttonPosition": { "l": 64 }
+						}
+					],
+					"rateup": ["akuoumaru", "the-flute", "dragon_s-bane", "rust", "the-widsith"],
+					"textOffset": {
+						"featured": { "l": 52.5, "t": 71, "w": 23 },
+						"rateup": { "l": 74.5, "b": 19 }
+					}
+				}
+			}
 		}
 	]
 }
