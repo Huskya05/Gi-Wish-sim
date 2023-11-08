@@ -1,0 +1,43 @@
+{
+	"patch": 250.0,
+	"data": [
+		{
+			"phase": 1,
+			"banners": {
+				"standardVersion": 4,
+				"events": {
+					"featured": [
+						{
+							"bannerName": "artic-loneliness-1",
+							"character": "yusk",
+							"textOffset": { "l": 50.75, "b": 9 }
+						},
+						{
+							"bannerName": "blazing-rivalry-1",
+							"character": "lukwos",
+							"textOffset": { "l": 50.75, "b": 9 }
+						}
+					],
+					"rateup": ["vilkas", "okami", "razor"]
+				},
+				"weapons": {
+					"bannerName": "epitome-invocation-55",
+					"fatepointsystem": true,
+					"featured": [{ "name": "splendor-of-tranquil-waters" }, { "name": "jadefall-splendor" }],
+					"rateup": [
+						"sacrificial-sword",
+						"the-stringless",
+						"the-bell",
+						"sacrificial-fragments",
+						"dragon_s-bane"
+					],
+					"textOffset": {
+						"featured": { "l": 47, "t": 70, "w": 29 },
+						"rateup": { "l": 77.5, "b": 20 }
+					}
+				}
+			}
+		}
+	]
+}
+

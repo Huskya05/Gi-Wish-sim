@@ -378,5 +378,41 @@
 	"zhongli": {
 		"name": "Zhongli",
 		"title": "Vago Mundo"
+	},
+	"aether": {
+		"name": "Aether",
+		"title": "--"
+	},
+	"lumine": {
+		"name": "Lumine",
+		"title": "--"
+	},
+	"navia": {
+		"name": "Navia",
+		"title": "--"
+	},
+	"arlecchino": {
+		"name": "Arlecchino",
+		"title": "--"
+	},
+	"dahlia": {
+		"name": "Dahlia",
+		"title": "--"
+	},
+	"yusk": {
+		"name": "Yusk",
+		"title": "Frozen Wolf"
+	},
+	"lukwos": {
+		"name": "Lukwos",
+		"title": "Nemesis Fury"
+	},
+	"vilkas": {
+		"name": "Vilkas",
+		"title": "Childhood Friend"
+	},
+	"okami": {
+		"name": "Õkami",
+		"title": "Spark of Joy"
 	}
 }
