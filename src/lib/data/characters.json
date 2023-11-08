@@ -2,10 +2,185 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"name": "yukong",
+			"vision": "geo",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "luocha",
+			"vision": "geo",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "silver-wolf",
+			"vision": "hydro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "jing-yuan",
+			"vision": "electro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "tingyun",
+			"vision": "electro",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "qingque",
+			"vision": "hydro",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "sushang",
+			"vision": "dendro",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "herta",
+			"vision": "cryo",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "arlan",
+			"vision": "electro",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "serval",
+			"vision": "electro",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "sampo",
+			"vision": "anemo",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "asta",
+			"vision": "pyro",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "pela",
+			"vision": "cryo",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 50, "l": 140, "h": 220 }
+		},
+		{
+			"name": "natasha",
+			"vision": "dendro",
+			"rarity": 4,
+			"wishBoxPosition": { "t": 70, "l": 40 }
+		},
+		{
+			"name": "hook",
+			"vision": "pyro",
+			"rarity": 4,
+			"wishBoxPosition": { "t":40, "l": 40 }
+		},
+		{
+			"name": "seele",
+			"vision": "hydro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "dan-heng",
+			"vision": "anemo",
+			"rarity": 4,
+			"wishBoxPosition": { "t":40, "l": 40 }
+		},
+		{
+			"name": "march-7th",
+			"vision": "cryo",
+			"rarity": 4,
+			"wishBoxPosition": { "t":40, "l": 40 }
+		},
+		{
+			"name": "clara",
+			"vision": "dendro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 80, "l": 150, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "bronya",
+			"vision": "anemo",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 30, "l": 100, "h": 330 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "gepard",
+			"vision": "cryo",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 50, "l": -50, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "bailu",
+			"vision": "electro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 60, "l": 10, "h": 180 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "yanqing",
+			"vision": "cryo",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 80, "l": 30, "h": 270 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "himeko",
+			"vision": "pyro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 30, "l": 50, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "welt",
+			"vision": "geo",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 90, "l": 120, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "stelle",
+			"vision": "pyro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "caelus",
+			"vision": "dendro",
+			"rarity": 5,
+			"wishBoxPosition": { "t": 20, "l": 200, "h": 290 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
 			"name": "koutsuki-naomi",
 			"vision": "pyro",
 			"rarity": 5,
-			"wishBoxPosition": { "t": 80, "l": 80, "h": 200 },
+			"wishBoxPosition": { "t": 45, "l": 70, "h": 290 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{

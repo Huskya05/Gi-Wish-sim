@@ -418,5 +418,113 @@
 	"koutsuki-naomi": {
 		"name": "Koutsuki Naomi",
 		"title": "Princess of Yashiori"
+	},
+	"caelus": {
+		"name": "Caelus",
+		"title": "Trailblazer"
+	},
+	"stelle": {
+		"name": "Stelle",
+		"title": "Trailblazer"
+	},
+	"himeko": {
+		"name": "Himeko",
+		"title": "Starward Explorer"
+	},
+	"welt": {
+		"name": "Welt",
+		"title": "In the name of the World"
+	},
+	"gepard": {
+		"name": "Gepard",
+		"title": "Stout Defender of the Union"
+	},
+	"bronya": {
+		"name": "Bronya",
+		"title": "Supreme Guardian"
+	},
+	"clara": {
+		"name": "Clara",
+		"title": "Bloody Rabbit"
+	},
+	"bailu": {
+		"name": "Bailu",
+		"title": "Dragon Lady"
+	},
+	"yanqing": {
+		"name": "Yanqing",
+		"title": "Cloud Knight Lieutenant"
+	},
+	"march-7th": {
+		"name": "March 7th",
+		"title": "Six-Phased Ice"
+	},
+	"dan-heng": {
+		"name": "Dan Heng",
+		"title": "Astral Express's Archivist"
+	},
+	"seele": {
+		"name": "Seele",
+		"title": "Butterfly of Tempest"
+	},
+	"hook": {
+		"name": "Hook",
+		"title": "Pitch-Dark Hook the Great"
+	},
+	"natasha": {
+		"name": "Natasha",
+		"title": "Underworld Doctor"
+	},
+	"pela": {
+		"name": "Pela",
+		"title": "Intelligence Officer"
+	},
+	"sampo": {
+		"name": "Sampo",
+		"title": "Underworld Mercenary"
+	},
+	"serval": {
+		"name": "Serval",
+		"title": "Belobog's Rock star"
+	},
+	"asta": {
+		"name": "Asta",
+		"title": "Deep Space Observer"
+	},
+	"arlan": {
+		"name": "Arlan",
+		"title": "Head of Security Department"
+	},
+	"herta": {
+		"name": "Herta",
+		"title": "N°83 of the Genius Society"
+	},
+	"sushang": {
+		"name": "Sushang",
+		"title": "Amateur Cloud Knight"
+	},
+	"tingyun": {
+		"name": "Tingyun",
+		"title": "Amicassador"
+	},
+	"qingque": {
+		"name": "Qingque",
+		"title": "Average Diviner"
+	},
+	"jing-yuan": {
+		"name": "Jing Yuan",
+		"title": "The Divine Foresight"
+	},
+	"silver-wolf": {
+		"name": "Silver Wolf",
+		"title": "Stellaron Hunter"
+	},
+	"luocha": {
+		"name": "Luocha",
+		"title": "Foreign Trader"
+	},
+	"yukong": {
+		"name": "Yukong",
+		"title": "Helm Master"
 	}
 }

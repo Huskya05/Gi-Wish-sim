@@ -1,10 +1,10 @@
 {
-	"version": 3,
+	"version": 4,
 	"standard": {
 		"featured": {
 			"bannerName": "wanderlust-invocation-2",
 			"character": "qiqi"
 		},
-		"characters": ["qiqi", "keqing", "diluc", "mona", "jean", "tighnari", "dehya"]
+		"characters": ["qiqi", "keqing", "diluc", "mona", "jean", "tighnari", "dehya", "welt", "himeko", "yanqing", "bailu", "gepard", "bronya", "clara"]
 	}
 }
