@@ -1,0 +1,43 @@
+{
+	"patch": 4.3,
+	"data": [
+		{
+			"phase": 1,
+			"banners": {
+				"standardVersion": 4,
+				"events": {
+					"featured": [
+						{
+							"bannerName": "splendid-roses-1",
+							"character": "navia",
+							"textOffset": { "l": 50.75, "b": 9 }
+						},
+						{
+							"bannerName": "oni_s-royale-4",
+							"character": "arataki-itto",
+							"textOffset": { "l": 50.75, "b": 9 }
+						}
+					],
+					"rateup": ["chevreuse", "gorou", "yun-jin"]
+				},
+				"weapons": {
+					"bannerName": "epitome-invocation-55",
+					"fatepointsystem": true,
+					"featured": [{ "name": "considered-judgment" }, { "name": "jadefall-splendor" }],
+					"rateup": [
+						"sacrificial-sword",
+						"the-stringless",
+						"the-bell",
+						"sacrificial-fragments",
+						"dragon_s-bane"
+					],
+					"textOffset": {
+						"featured": { "l": 47, "t": 70, "w": 29 },
+						"rateup": { "l": 77.5, "b": 20 }
+					}
+				}
+			}
+		}
+	]
+}
+

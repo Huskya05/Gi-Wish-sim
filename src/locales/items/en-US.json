@@ -10,6 +10,7 @@
 	"bloodtained-greatsword": "Bloodtained Greatsword",
 	"calamity-queller": "Calamity Queller",
 	"cashflow-supervision": "Cashflow Supervision",
+	"considered-judgment": "Considered Judgment",
 	"cool-steel": "Cool Steel",
 	"debate-club": "Debate Club",
 	"dragon_s-bane": "Dragon's Bane",
@@ -126,6 +127,10 @@
 	"charlotte": {
 		"name": "Charlotte",
 		"title": "Lens of Verity"
+	},
+	"chevreuse": {
+		"name": "Chevreuse",
+		"title": "Executor of Justice"
 	},
 	"chongyun": {
 		"name": "Chongyun",
@@ -259,6 +264,10 @@
 		"name": "Nahida",
 		"title": "Physic of Purity"
 	},
+	"navia": {
+		"name": "Navia",
+		"title": "Helm of the Radiant Rose"
+	},
 	"neuvillette": {
 		"name": "Neuvillette",
 		"title": "Ordainer of Inexorable Judgment"
@@ -306,6 +315,10 @@
 	"shikanoin-heizou": {
 		"name": "Shikanoin Heizou",
 		"title": "Analytical Harmoni"
+	},
+	"sigewinne": {
+		"name": "Sigewinne",
+		"title": "Nurse in-chef"
 	},
 	"sucrose": {
 		"name": "Sucrose",
@@ -386,10 +399,6 @@
 	"lumine": {
 		"name": "Lumine",
 		"title": "Traveler's Sibling"
-	},
-	"navia": {
-		"name": "Navia",
-		"title": "Head of the Spina di Rosula"
 	},
 	"arlecchino": {
 		"name": "Arlecchino",

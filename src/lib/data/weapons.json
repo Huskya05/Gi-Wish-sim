@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"name": "considered-judgment",
+			"rarity": 5,
+			"weaponType": "claymore",
+			"limited": true,
+			"buttonOffset": {
+				"t": -15,
+				"w": 90,
+				"l": 30
+			}
+		},
+		{
 			"name": "splendor-of-tranquil-waters",
 			"rarity": 5,
 			"weaponType": "sword",
