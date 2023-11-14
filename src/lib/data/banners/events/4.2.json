@@ -37,6 +37,43 @@
 					}
 				}
 			}
+		},
+		{
+			"phase": 2,
+			"banners": {
+				"standardVersion": 4,
+				"events": {
+					"featured": [
+						{
+							"bannerName": "twilight-arbiter-2",
+							"character": "cyno",
+							"textOffset": { "l": 50.75, "b": 9 }
+						},
+						{
+							"bannerName": "azure-excursion-2",
+							"character": "kamisato-ayato",
+							"textOffset": { "l": 50.75, "b": 9 }
+						}
+					],
+					"rateup": ["barbara", "collei", "bennett", "rosaria", "sayu", "kujou-sara"]
+				},
+				"weapons": {
+					"bannerName": "epitome-invocation-55",
+					"fatepointsystem": true,
+					"featured": [{ "name": "splendor-of-tranquil-waters" }, { "name": "jadefall-splendor" }],
+					"rateup": [
+						"sacrificial-sword",
+						"the-stringless",
+						"the-bell",
+						"sacrificial-fragments",
+						"dragon_s-bane"
+					],
+					"textOffset": {
+						"featured": { "l": 47, "t": 70, "w": 29 },
+						"rateup": { "l": 77.5, "b": 20 }
+					}
+				}
+			}
 		}
 	]
 }
